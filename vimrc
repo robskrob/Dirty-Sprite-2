@@ -20,7 +20,7 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 " Install L9 and avoid a Naming conflict if you've already installed a
 " different version somewhere else.
 " Plugin 'ascenator/L9', {'name': 'newL9'}
-Plugin 'gmarik/vundle'
+" Plugin 'gmarik/vundle'
 
 " Unite and vimproc (for async)
 Plugin 'Shougo/unite.vim'
