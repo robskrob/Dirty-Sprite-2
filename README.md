@@ -34,7 +34,7 @@ $ ln -s /Users/your-username/path/to/project/Vimlander-3/gvimrc /Users/your-user
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
-6. Install the plugins. Note when you first install the packages you will see errors, but they are harmless. Vim is complaining about the plugins not being there, which makes sense because, indeed, the do not exist. However, they will exist once you run:
+6. Install the plugins. Note when you first install the packages you will see errors, but they are harmless. Vim is complaining about the plugins not being there, which makes sense because, indeed, they do not exist. However, they will exist once you run:
 ```bash
 vim +PluginInstall +qall
 ```
