@@ -38,3 +38,5 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```bash
 vim +PluginInstall +qall
 ```
+
+7. In a new shell, enter `$ vim .`, and the above vim configuration should be set for you to use.
