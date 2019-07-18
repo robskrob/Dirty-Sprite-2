@@ -56,6 +56,7 @@ Plugin 'vadimr/bclose.vim'
 Plugin 'noahfrederick/vim-hemisu'
 Plugin 'ck3g/vim-change-hash-syntax'
 Plugin 'ngmy/vim-rubocop'
+Plugin 'leafgarland/typescript-vim'
 
 
 " All of your Plugins must be added before the following line
